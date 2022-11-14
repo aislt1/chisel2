@@ -18,4 +18,4 @@ require (
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 )
 
-replace github.com/jpillora/chisel => github.com/aislt1/chisel2
+replace github.com/jpillora/chisel => github.com/aislt1/chisel2 v1.7.7
