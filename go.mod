@@ -1,4 +1,4 @@
-module github.com/jpillora/chisel
+module github.com/aislt1/chisel2
 
 go 1.13
 
