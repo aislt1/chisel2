@@ -3,7 +3,7 @@ module github.com/aislt1/chisel2
 go 1.13
 
 require (
-        github.com/jpillora/chisel v1.7.7
+        github.com/jpillora/chisel v0.0.0-20221114072947-82629dbf3094
 	github.com/andrew-d/go-termutil v0.0.0-20150726205930-009166a695a2 // indirect
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/fsnotify/fsnotify v1.6.0
@@ -19,4 +19,4 @@ require (
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 )
 
-replace github.com/jpillora/chisel => github.com/aislt1/chisel2 v1.7.7
+replace github.com/jpillora/chisel => github.com/aislt1/chisel2 v0.0.0-20221114072947-82629dbf3094
