@@ -17,3 +17,5 @@ require (
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 )
+
+replace github.com/jpillora/chisel => github.com/aislt1/chisel2 v1.7.7
